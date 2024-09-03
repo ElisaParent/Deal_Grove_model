@@ -8,3 +8,8 @@ Fig. 1 Deal Grove model for Silicon Oxide for both wet and dry oxidation in line
 ![image](https://github.com/user-attachments/assets/78ae1b2b-9476-4dbb-85b6-c4011a98bca3) 
 
 Fig. 2 Deal Grove model for Silicon Oxide for both wet and dry oxidation in log scale
+
+The thickness of the oxide is most important for MOSFETs is apparent in the equation for the drain current, which is shown in the last figure.
+![image](https://github.com/user-attachments/assets/ac80161f-cf33-4459-ba46-c7b8d2f4fcd5)
+
+Fig.3 Gate Source Voltage vs Drain Current varying the gate oxide
